@@ -9,13 +9,13 @@ Hier finden Sie die Folien des Symposiums "Open Science in der Bildungsforschung
 * Jürgen Schneider (Universität Tübingen)
 
 ## Folien
-
+0. Folien Übersicht
+    * [zum Download](https://github.com/j-5chneider/OS-GEBF21/blob/main/0_slides_%C3%9Cberblick.pdf)
 1. Folien Einführungsvortrag
-    * [Download](https://github.com/j-5chneider/OS-GEBF21/blob/main/1_slides_intro.html) (rechts auf Download-Button klicken)
+    * [zum Download](https://github.com/j-5chneider/OS-GEBF21/blob/main/1_slides_intro.html) (dann rechts auf Download-Button klicken)
     * direkt [im Browser anschauen](https://raw.githack.com/j-5chneider/OS-GEBF21/main/1_slides_intro.html)
 2. Folien Fokus Gruppe "Publikationssystem transformieren"
-    * [Download](https://github.com/j-5chneider/OS-GEBF21/blob/main/2a_slides_focusGroup_publication.html) (rechts auf Download-Button klicken)
+    * [zum Download](https://github.com/j-5chneider/OS-GEBF21/blob/main/2a_slides_focusGroup_publication.html) (dann rechts auf Download-Button klicken)
     * direkt [im Browser anschauen](https://raw.githack.com/j-5chneider/OS-GEBF21/main/2a_slides_focusGroup_publication.html)
-3. Folien Fokus Gruppe ""
-    * [Download]() (rechts auf Download-Button klicken)
-    * direkt im Browser anschauen
+3. Folien Fokus Gruppe "Reproducible Reporting"
+    * [zum Download](https://github.com/j-5chneider/OS-GEBF21/blob/main/2b_slides_focusGroup_Reproducible-Reporting.pdf)
